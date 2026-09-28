@@ -44,17 +44,13 @@ The dataset used for this analysis was obtained from **[Bayanat.ae](https://baya
 
 As a key member of the team, my responsibilities were central to the project's success:
 
-1.  **Data Acquisition and Cleaning:**
-    *   Loaded the dataset from an Excel file into a Pandas DataFrame.
-    *   Handled missing values (`dropna`, `fillna`) and removed unnecessary columns.
-    *   Renamed columns for better readability and consistency (e.g., `Value` to `Births`).
+1.  **Data Visualization:**
+    *   Designed and generated meaningful charts and graphs to represent the analyzed data effectively.
+    *   Addressed specific analytical questions (Questions 8, 9, and 10) by selecting the most appropriate visualization types.
+    *   Ensured all visualizations included proper headings, axis labels, and legends for clarity and readability.
+    *   Used these visual tools to communicate complex trends and patterns in a way that was easily understandable for the audience.
 
-2.  **Exploratory Data Analysis (EDA):**
-    *   Performed statistical analysis to find the total number of births.
-    *   Utilized grouping (`groupby`) to calculate the total births per Emirate.
-    *   Conducted complex analysis by combining filtering, sorting, and grouping to answer specific questions, such as finding the average births in 2004.
-
-This project was my first deep dive into the world of data analytics, solidifying my skills in Python, Pandas, and the logical process of turning raw data into meaningful insights.
+This project was a fantastic hands-on experience, solidifying my skills in HTML, CSS, and the process of turning raw data into clear, impactful visual insights.
 
 ---
 
